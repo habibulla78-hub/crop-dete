@@ -173,4 +173,4 @@ Author: habibulla
 
 # ---------------- FOOTER ----------------
 st.markdown("---")
-st.markdown("<p style='text-align:center;'>🚀 Developed by <b>Gulam N Chabbi</b></p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;'>🚀 Developed by <b>habibulla</b></p>", unsafe_allow_html=True)
